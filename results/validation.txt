@@ -1,0 +1,5 @@
+Validated 18 training runs; 36,000 training rows; 1,800 evaluation rows.
+All recorded rewards, limits, summaries, and required settings match.
+Original simulator, supplied maps, public tests, BFS, and other starter functions are unchanged.
+Report contains exactly 3 pages, with Parts A, B, C in order.
+Python: 3.12.14

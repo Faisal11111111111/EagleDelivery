@@ -1,0 +1,4 @@
+# Only needed to recreate the plots and PDF report.
+# The simulator, algorithms, tests, and experiments use the standard library.
+matplotlib
+reportlab

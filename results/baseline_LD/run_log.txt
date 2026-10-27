@@ -1,0 +1,7 @@
+Halle Library -> Downing Hall
+Seed 0 evaluation: {'success_rate': 1, 'mean_return': 18, 'mean_steps_success': 22}
+Seed 1 evaluation: {'success_rate': 1, 'mean_return': 18, 'mean_steps_success': 22}
+Seed 2 evaluation: {'success_rate': 1, 'mean_return': 18, 'mean_steps_success': 22}
+Saved CSV files to results/baseline_LD
+Mean success rate across seeds: 1
+Mean evaluation return across seeds: 18

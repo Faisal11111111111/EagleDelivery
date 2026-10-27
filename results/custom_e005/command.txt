@@ -1,0 +1,1 @@
+python run_project.py train --map maps/my_campus.txt --start S --goal W --epsilon 0.05 --alpha 0.3 --gamma 0.95 --slip 0 --episodes 2000 --eval-episodes 100 --max-steps 200 --seeds 0 1 2 --output results/custom_e005

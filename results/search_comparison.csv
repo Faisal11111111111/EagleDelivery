@@ -1,0 +1,8 @@
+map,task,bfs_length,astar_length,bfs_expanded,astar_expanded
+emu_campus,S-W,18,18,67,22
+emu_campus,L-D,22,22,79,62
+emu_campus,H-P,16,16,41,16
+emu_detour,S-W,26,26,70,51
+emu_detour,L-D,22,22,65,60
+emu_detour,H-P,16,16,41,16
+my_campus,S-W,18,18,53,32

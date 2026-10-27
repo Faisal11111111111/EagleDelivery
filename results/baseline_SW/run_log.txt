@@ -1,0 +1,7 @@
+Student Center -> Walton Hall
+Seed 0 evaluation: {'success_rate': 1, 'mean_return': 22, 'mean_steps_success': 18}
+Seed 1 evaluation: {'success_rate': 1, 'mean_return': 22, 'mean_steps_success': 18}
+Seed 2 evaluation: {'success_rate': 1, 'mean_return': 22, 'mean_steps_success': 18}
+Saved CSV files to results/baseline_SW
+Mean success rate across seeds: 1
+Mean evaluation return across seeds: 22

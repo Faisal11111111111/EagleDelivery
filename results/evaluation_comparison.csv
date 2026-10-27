@@ -1,0 +1,7 @@
+condition,task,epsilon,seeds,evaluation_episodes,success_rate,success_rate_sd,mean_return,mean_return_sd,mean_steps_success,mean_steps_success_sd
+baseline_SW,S-W,0.2,3,300,1.0,0.0,22.0,0.0,18.0,0.0
+baseline_LD,L-D,0.2,3,300,1.0,0.0,18.0,0.0,22.0,0.0
+baseline_HP,H-P,0.2,3,300,1.0,0.0,24.0,0.0,16.0,0.0
+custom_e005,S-W,0.05,3,300,1.0,0.0,22.0,0.0,18.0,0.0
+custom_e020,S-W,0.2,3,300,1.0,0.0,22.0,0.0,18.0,0.0
+custom_e050,S-W,0.5,3,300,1.0,0.0,22.0,0.0,18.0,0.0

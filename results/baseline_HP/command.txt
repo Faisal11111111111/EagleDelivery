@@ -1,0 +1,1 @@
+python run_project.py train --map maps/emu_campus.txt --start H --goal P --epsilon 0.2 --alpha 0.3 --gamma 0.95 --slip 0 --episodes 2000 --eval-episodes 100 --max-steps 200 --seeds 0 1 2 --output results/baseline_HP
